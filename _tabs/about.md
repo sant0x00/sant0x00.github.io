@@ -17,8 +17,8 @@ Mais detalhes sobre minha carreira estarão no meu [Linkedin](https://www.linked
 Eu tenho dois objetivos específicos com esse blog:
 
 1. Ser uma base de conhecimento, onde o que eu for aprender eu possa manter armazenado e organizado em algum lugar;
-2. Compartilhar com as pessoas o conhecimento que eu for adquirindo e/ou que eu já tenho (o qual não é muito, estou aqui para aprender também! hehe)
+2. Compartilhar com as pessoas o conhecimento que eu for adquirindo e/ou que eu já tenho (o qual não é muito, estou aqui para aprender também! hehe);
 
 > "Não concordo com o que você escreve!"
 
-Caso você não concorde com o que eu escrevo tem duas alternativas: me enviar um [e-mail]() sugerindo melhorias, e vou ficar muito grato por isso, ou **simplesmente** não ler =) 
+Caso você não concorde com o que eu escrevo tem duas alternativas: me enviar um [e-mail](mailto:joao.araujo.santos@outlook.com) sugerindo melhorias, e vou ficar muito grato por isso, ou **simplesmente** não ler =) 

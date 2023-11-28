@@ -50,11 +50,16 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Build Assets
+        run: npm i && npm run build
+
       - name: Test site
-        run: |
-          bundle exec htmlproofer _site \
-            \-\-disable-external=true \
-            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+        run: bash tools/test
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
