@@ -16,10 +16,10 @@ timezone: America/Sao_Paulo
 
 title: sant0x00 # the main title
 
-tagline: Base de conhecimento # it will display as the sub-title
+tagline: Base de Conhecimento # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A Knowledge base and content sharing on Development, Infrastructure and Security.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,8 +38,8 @@ social:
   email: joao.araujo.santos@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/sant0x00 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/66674476?v=4
+avatar: /assets/img/favicons/android-chrome-512x512.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
