@@ -1,3 +1,9 @@
+---
+layout: post
+title: WSL Backup
+categories: WSL
+---
+
 # WSL - Backup Passo a Passo
 
 Fazer backup no WSL pode ser uma tarefa fácil e até divertida! Vamos explorar algumas opções passo a passo para garantir a segurança dos seus projetos.
