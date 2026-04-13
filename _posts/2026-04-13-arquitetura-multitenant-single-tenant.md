@@ -3,6 +3,8 @@ title: Arquitetura Multitenant — modelo Single-Tenant
 date: 2026-04-13 00:20:00 -0300
 categories: [Arquitetura]
 tags: [multitenant, single-tenant, saas, arquitetura-de-software]
+series: arquitetura-multitenant
+series_order: 2
 description: Anotações sobre o modelo Single-Tenant, suas vantagens, desvantagens e quando ele pode fazer sentido.
 ---
 
