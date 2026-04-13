@@ -6,19 +6,18 @@ order: 4
 
 > Quem sou eu?
 
-Eu me chamo João Pedro Araújo, tenho estudado Desenvolvimento de Software a cerca de 4 anos (desde dos meus 13~14 anos de idade).
-Comecei meu primeiro trabalho como desenvolvedor aos 15 anos em uma pequena empresa de segurança ofensiva. Lá tive contato com Java, Spring, JavaScript, Bootstrap etc.
+Eu sou João Pedro Araujo, **Engenheiro de Software** com foco em backend, arquitetura de software e segurança. Comecei cedo na área de tecnologia, passando por desenvolvimento full stack, segurança ofensiva e gestão de vulnerabilidades, até chegar ao desenvolvimento de plataformas de cibersegurança e soluções em nuvem.
 
-Atualmente trabalho em uma startup focada em desenvolver soluções para nuvem e cibersegurança. As principais tecnologias que eu trabalho são: GoLang, Azure, Kubernetes, CI/CD e muitas outras.
-Mais detalhes sobre minha carreira estarão no meu [Linkedin](https://www.linkedin.com/in/sant0x00/).
+Atualmente atuo como **Engenheiro de Software (Software Engineer) na Arancia**, contribuindo para uma plataforma multi-tenant de cibersegurança com módulos como EASM, SIEM e XDR. No dia a dia, costumo atuar com **Go**, **TypeScript**, **AWS**, microsserviços, APIs REST, **Clean Architecture**, **DDD**, bancos de dados relacionais, OpenSearch, CI/CD, containers e práticas de DevSecOps.
+
+Também curso **Ciência da Computação** e mantenho interesse constante por arquitetura, cloud, segurança, automação e engenharia de software aplicada a problemas reais. Mais detalhes profissionais estão no meu [LinkedIn](https://www.linkedin.com/in/sant0x00/).
 
 > Qual a finalidade desse blog?
 
-Eu tenho dois objetivos específicos com esse blog:
+Este blog é a minha base de conhecimento: um lugar para registrar o que eu estudo, organizar anotações e deixar rastros do meu processo de aprendizado.
 
-1. Ser uma base de conhecimento, onde o que eu for aprender eu possa manter armazenado e organizado em algum lugar;
-2. Compartilhar com as pessoas o conhecimento que eu for adquirindo e/ou que eu já tenho (o qual não é muito, estou aqui para aprender também! hehe);
+A ideia principal é facilitar consultas futuras para mim mesmo, mas o conteúdo fica público porque talvez também ajude outras pessoas que estejam estudando temas parecidos. Nem tudo aqui precisa ser uma verdade final ou um artigo definitivo; algumas páginas podem ser notas em evolução, refinadas conforme eu aprendo mais.
 
 > "Não concordo com o que você escreve!"
 
-Caso você não concorde com o que eu escrevo tem duas alternativas: me enviar um [e-mail](mailto:joao.araujo.santos@outlook.com) sugerindo melhorias, e vou ficar muito grato por isso, ou **simplesmente** não ler =) 
+Se você encontrar algo incorreto, incompleto ou que poderia ser melhor explicado, pode me enviar um [e-mail](mailto:joao.araujo.santos@outlook.com) com sugestões. Vou ficar grato pelo feedback.

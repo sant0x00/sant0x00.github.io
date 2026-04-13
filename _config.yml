@@ -14,12 +14,13 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: sant0x00 # the main title
+title: João Pedro Araujo # the main title
 
 tagline: Base de Conhecimento # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A Knowledge base and content sharing on Development, Infrastructure and Security.
+  Base de conhecimento e compartilhamento de estudos sobre desenvolvimento,
+  arquitetura de software, infraestrutura e segurança.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -42,7 +43,7 @@ social:
     - https://github.com/sant0x00 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/sant0x00/
 
 google_site_verification: # fill in to your verification string
 
