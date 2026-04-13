@@ -3,6 +3,8 @@ title: Arquitetura Multitenant — visão geral e critérios de escolha
 date: 2026-04-13 00:30:00 -0300
 categories: [Arquitetura]
 tags: [multitenant, saas, arquitetura-de-software, banco-de-dados]
+series: arquitetura-multitenant
+series_order: 1
 description: Uma visão geral sobre modelos de tenancy, isolamento de dados e critérios para escolher a abordagem certa.
 ---
 

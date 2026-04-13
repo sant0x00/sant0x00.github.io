@@ -3,6 +3,8 @@ title: Arquitetura Multitenant — Shared Database, Isolated Schema e Shared Sch
 date: 2026-04-13 00:10:00 -0300
 categories: [Arquitetura]
 tags: [multitenant, shared-database, saas, arquitetura-de-software, banco-de-dados]
+series: arquitetura-multitenant
+series_order: 3
 description: Comparação entre os modelos Shared Database / Isolated Schema e Shared Database / Shared Schema.
 ---
 
